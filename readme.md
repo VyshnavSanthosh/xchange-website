@@ -5,7 +5,9 @@ X-Change is a platform designed to promote responsible consumption and productio
 - Amarnath K V
 - Rafan Hatim
 - Vyshnav Santhosh
-- Ashwin Ganga
+- Aswin Ganga
+
+Link to product walkthrough : https://youtu.be/XA0wcJq3GZA?si=NIfZGxdoRhVrU3TE
 
 ## How it Works ?
 Explaining the working of project
