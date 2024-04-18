@@ -7,6 +7,8 @@ X-Change is a platform designed to promote responsible consumption and productio
 - Vyshnav Santhosh
 - Ashwin Ganga
 
+Link to product walkthrough : https://youtu.be/XA0wcJq3GZA?si=NIfZGxdoRhVrU3TE
+
 ## How it Works ?
 Explaining the working of project
 Embed video of project demo
