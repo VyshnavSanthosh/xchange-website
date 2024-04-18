@@ -10,7 +10,7 @@ X-Change is a platform designed to promote responsible consumption and productio
 ## How it Works ?
 Explaining the working of project
 Embed video of project demo
-
+nodemon server.js
 ## Features
 - Item Listings: Users can list items they no longer need for sale or donation, including details such as item description, condition, and price.
 - Search and Browse: Users can search for specific items or browse through categories to find items of interest.
@@ -19,10 +19,13 @@ Embed video of project demo
 - Safety Measures: Encourages safe and secure transactions by providing tips for meeting in public places and exercising caution when sharing personal information.
 
 ## Libraries used
-HTML/CSS/JS
+HTML/CSS/JS/Bootstrap/node.JS/experss.JS/mongoDB
 
 ## How to configure
-Instructions for setting up project
+Instructions for setting up projectj
+node i mongoose express body-parser nodemon
 
 ## How to Run
-https
+Install the dipendencies using node i mongoose express body-parser nodemon in terminal
+write nodemon server.js in terminal to run the code on server
+
